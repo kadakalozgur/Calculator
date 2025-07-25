@@ -13,7 +13,7 @@
 📸 Uygulama Arayüzü
 
 ### 🖼️ Interface Screenshot 1  
-![Calculator UI](ScreenShots/ScreenShot-1.png)
+![Calculator UI](Calculator/ScreenShots/ScreenShot-1.png)
 
 ---
 
