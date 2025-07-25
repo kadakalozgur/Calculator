@@ -11,9 +11,8 @@
 ---
 
 ## 🖼️ Uygulama Ön İzlemesi | App Preview  
-📸 Uygulama Arayüzü
 
-### 🖼️ Interface Screenshot 1  
+### 📸 Interface Screenshot 1  
 ![Calculator UI](Calculator/ScreenShots/ScreenShot-1.png)
 
 ---
