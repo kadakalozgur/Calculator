@@ -47,14 +47,6 @@ A simple and functional calculator application developed using **C# and Windows 
 
 ---
 
-## 🚀 Kurulum | Installation
-
-1. `.zip` dosyasını indirin ve çıkartın.  
-2. Visual Studio ile `CalculatorApp.sln` dosyasını açın.  
-3. Projeyi derleyin ve çalıştırın (`F5` tuşuna basarak).
-
----
-
 ## 📬 Contact | İletişim
 
 For any feedback, questions, or suggestions, feel free to contact me:  
