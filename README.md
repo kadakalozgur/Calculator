@@ -1,5 +1,6 @@
 # 🧮 Calculator App | Hesap Makinesi Uygulaması  
-**-Developed by Özgür Kadakal**
+
+### - Developed by Özgür Kadakal
 
 ---
 
