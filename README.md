@@ -49,10 +49,10 @@ A simple and functional calculator application developed using **C# and Windows 
 
 ## 📬 Contact | İletişim  
 For any feedback, questions, or suggestions, feel free to contact me:
-📧 ozgurkadakal61@gmail.com
+📧 ozgurkreach@gmail.com
 
 Her türlü geri bildirim, soru veya öneri için:
-📧 ozgurkadakal61@gmail.com
+📧 ozgurkreach@gmail.com
 
 ---
 
